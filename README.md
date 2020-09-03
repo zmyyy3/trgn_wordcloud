@@ -1,10 +1,10 @@
 #trgn_wordcloud
 
-##About the app:
+#`About the app:`
 
  This app will summarize keywords from websites you selected, generate an image about these keywords, and update images once per day.
 
-##Installation and usage:
+#`Installation and usage:`
 
 1.  Use command "git clone https://github.com/zmyyy3/trgn_wordcloud" to clone this repository into your server.
 
@@ -21,7 +21,7 @@
 
 7.  Use command "crontab -e" to create a schedule that can automatically update the image in a certain period.
 
-##Dependencies:
+#`Dependencies:`
 
 1.  Git 
 
@@ -29,7 +29,7 @@
 
 3.  Cron
 
-##Contact:
+#`Contact:`
  
    mzhang11@usc.edu
 
