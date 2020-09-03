@@ -27,11 +27,11 @@ Installation and usage:
 Dependencies:
 --------
 
-1.  Git 
+1.  wget 
 
-2.  Python packages
+2.  Python script html2text
 
-3.  Cron
+3.  Python script wordcloud
 
 Contact:
 -------
